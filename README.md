@@ -52,8 +52,8 @@ A Compare acompanha o cliente para ele ficar sempre no melhor plano: quando o pl
 | **O que faz** | Consultoria de seguro-saúde, do primeiro comparativo ao acompanhamento de longo prazo |
 | **Para quem** | Famílias e pequenas empresas em São Paulo |
 | **Instagram** | [@compare.planodesaude](https://www.instagram.com/compare.planodesaude/) |
-| **Site** | {{endereço do site}} |
-| **Contato** | {{e-mail do time}} |
+| **Site** | [compareplanodesaude.com.br](https://compareplanodesaude.com.br/) |
+| **Contato** | [compare.dev@compareplanodesaude.com.br](mailto:compare.dev@compareplanodesaude.com.br) |
 
 <p align="center">
   <sub>Os repositórios deste perfil são privados.</sub>
